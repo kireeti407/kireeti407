@@ -31,22 +31,13 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 
 ## 💼 Work
 🔭 I’m currently working on  
-[ArtCollab_App](#) – A collaborative platform for artists to connect, share, and co-create artwork.  
-
-👯 I’m looking to collaborate on  
-[MemeHub](#) – A meme-sharing platform built during a 48-hour hackathon with likes, comments & leaderboards.  
-
-🤝 I’m looking for help with  
-[Event Management Platform](#) – A React + Firebase platform featuring event creation, RSVP tracking & Cloudinary uploads.  
-
-🌱 I’m currently learning  
-Advanced React Patterns, Redux Toolkit, TypeScript, Firebase, and Cloudinary  
+[](#) – 
 
 💬 Ask me about  
 React, MERN Stack, Firebase, GSAP animations  
 
 📫 How to reach me  
-📧 kireeti@example.com  
+📧 kireetis407@gmail.com  
 
 👨‍💻 All of my projects are available at  
 🌐 [My Portfolio](#)  
@@ -98,19 +89,19 @@ I think I am funny 😄
 <div align="center">
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kireeti 407&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireeti407&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kireeti407&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kireeti407&theme=radical&column=7" alt="GitHub Trophies"/>
 </p>
 
 </div>
