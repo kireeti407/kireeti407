@@ -12,7 +12,7 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 </div>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/kireeti-sangala/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:kireetis407@gmail.com" target="blank">
@@ -37,7 +37,7 @@ React, MERN Stack, Firebase, GSAP animations
 📧 kireetis407@gmail.com  
 
 👨‍💻 All of my projects are available at  
-🌐 [My Portfolio](#)  
+🌐 [My Portfolio](https://kireetisangala.netlify.app/)  
 
 📄 Know about my experiences  
 📑 [My Resume](#)  
