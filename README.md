@@ -23,9 +23,6 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 </a>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6Z2s5Z250a29iZ3Nuc2Nuc2s2eGJpZ3N6cW12bDY0bXNqZ3NqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" alt="Coder GIF" width="600"/>
-</p>
 
 ---
 
