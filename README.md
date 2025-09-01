@@ -89,7 +89,7 @@ I think I am funny 😄
 <div align="center">
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kireeti 407&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kireeti407&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p>
