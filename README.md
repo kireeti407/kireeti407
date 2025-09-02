@@ -40,7 +40,8 @@ React, MERN Stack, and DSA
 🌐 [My Portfolio](https://kireetisangala.netlify.app/)  
 
 📄 Know about my experiences  
-📑 [My Resume](https://drive.google.com/file/d/1N3iXBUOmizm8RZqNITJFqbzi5TVucCLo/view?usp=sharing)  
+📑 [My Resume](https://drive.google.com/file/d/1N3iXBUOmizm8RZqNITJFqbzi5TVucCLo/view?usp=sharing) 
+
 ---
 
 <h2 align="center">My Tech Stack 💻</h2>
