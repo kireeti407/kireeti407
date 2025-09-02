@@ -28,10 +28,10 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 
 ## 💼 Work
 🔭 I’m currently working on  
-[](#) – 
+[Multi-Vendor E-Commerce Marketplace](https://github.com/kireeti407/Multi-Vendor-E-Commerce-Marketplace-Backend-System) – 
 
 💬 Ask me about  
-React, MERN Stack, Firebase, GSAP animations  
+React, MERN Stack, and DSA
 
 📫 How to reach me  
 📧 kireetis407@gmail.com  
