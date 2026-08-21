@@ -5,7 +5,7 @@
 <div align="center">
 <h1>I'm Kireeti, a Full-Stack Developer 🚀</h1>
 <p>
-I'm a recent <b>B.Tech CSE graduate</b> and <b>Full Stack Development trainee at Masai School</b>.  
+Full Stack intern at Anko GCC (Digital Stores). I build web applications and production retail systems with React, Next.js, NestJS, Node.js, TypeScript, and AWS. 
 Passionate about building <b>scalable web applications</b>, solving challenging problems, and creating impactful digital experiences.  
 I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.  
 </p>
